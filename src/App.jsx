@@ -1,11 +1,12 @@
-import "./App.css";
-import Login from "./Login/Login";
-
+import React from "react";
+import Calculator from "./Calculadora/Calculator";
+ 
 
 function App() {
   return (
     <div className="App">
-      <Login />
+      <h1>Bem-vindo ao Meu Site!</h1>
+      <Calculator/> 
     </div>
   );
 }

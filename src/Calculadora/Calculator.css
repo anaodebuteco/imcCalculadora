@@ -1,0 +1,37 @@
+.imc-calculator {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  form {
+    display: inline-block;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+  }
+  
+  input {
+    padding: 8px;
+    margin: 10px 0;
+    width: 100%;
+  }
+  
+  button {
+    margin: 10px 5px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button[type="button"] {
+    background-color: #f44336;
+  }
+  
+  .result {
+    margin-top: 20px;
+  }
+  
